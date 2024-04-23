@@ -1,0 +1,13 @@
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.AboutUs.resources
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.ContactDetails.resources
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Registration.resources
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.SearchForm.resources
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\HP\Downloads\repos\BackEnd\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
